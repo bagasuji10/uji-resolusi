@@ -6,6 +6,5 @@ RENCANA KONTEN :
   ^ React
 - php framework
  ^ Laravel
-- struktur data dasar
 - interview
 - vlog
