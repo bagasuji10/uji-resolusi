@@ -2,7 +2,10 @@ RENCANA KONTEN :
 - javascript :
   *ES6
   *Framework javascript
+  ^ Vue
+  ^ React
 - php framework
+ ^ Laravel
 - struktur data dasar
 - interview
 - vlog
