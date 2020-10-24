@@ -2,7 +2,7 @@ RENCANA KONTEN :
 - javascript :
   *ES6
   *Framework javascript
-  ^ Vue
+  ^ Angular
   ^ React
 - php framework
  ^ Laravel
