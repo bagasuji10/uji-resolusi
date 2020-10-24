@@ -1,3 +1,5 @@
 RENCANA KONTEN :
-- javascript
+- javascript :
+  *ES6
+  *Framework javascript
 - php
